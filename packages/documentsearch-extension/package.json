@@ -38,13 +38,13 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyter-notebook/application": "^7.0.0-rc.2",
+    "@jupyter-notebook/application": "^7.0.0",
     "@jupyterlab/application": "^4.0.2",
     "@jupyterlab/documentsearch": "^4.0.2",
     "@lumino/widgets": "^2.1.1"
   },
   "devDependencies": {
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "typescript": "~5.0.2"
   },
   "publishConfig": {
