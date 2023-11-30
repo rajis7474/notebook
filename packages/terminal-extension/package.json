@@ -44,7 +44,7 @@
     "@lumino/algorithm": "^2.0.0"
   },
   "devDependencies": {
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "typescript": "~5.0.2"
   },
   "publishConfig": {
