@@ -39,9 +39,9 @@
   },
   "dependencies": {
     "@jupyter-notebook/application": "^7.0.0-rc.2",
-    "@jupyter-notebook/tree": "^7.0.0-rc.2",
+    "@jupyter-notebook/tree": "^7.0.0",
     "@jupyterlab/application": "^4.0.2",
-    "@jupyterlab/apputils": "^4.1.2",
+    "@jupyterlab/apputils": "^4.3.0",
     "@jupyterlab/coreutils": "^6.0.2",
     "@jupyterlab/docmanager": "^4.0.2",
     "@jupyterlab/filebrowser": "^4.0.2",
